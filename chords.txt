@@ -1,0 +1,26 @@
+# Triads
+Maj	0	4	7 (p5)
+min	0	3	7 (p5)
+Aug	0	4	8
+dim	0	3	6
+
+# Seventh
+dim7	0	3	6	9
+m7b5	0	3	6	10
+min7	0	3	7 (p5)	10
+mM7	0	3	7 (p5)	11
+dom7	0	4	7 (p5)	10
+Maj7	0	4	7 (p5)	11
+Aug7	0	4	8	10
+AugM7	0	4	8	11
+
+# Ninth	(dominant by default)
+dom7b9	0	4	7 (p5)	10	13
+dom9	0	4	7 (p5)	10	14
+min9	0	3	7 (p5)	10	14
+Maj9	0	4	7 (p5)	11	14
+
+# Suspended
+sus2	0	2	7 (p5)
+sus4	0	5 (p4)	7 (p5)
+9sus4	0	5 (p4)	7 (p5)	14
